@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Macorone Sweater",
+            "price": 200,
+            "image": "./images/product-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Jelly Mousse Tint",
+            "price": 40,
+            "image": "./images/product-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "A'pieu Oily Hair Dry Power",
+            "price": 750,
+            "image": "./images/product-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Romand Eye Shadow Palette",
+            "price": 50,
+            "image": "./images/product-4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "EML Soft IceCream Mask",
+            "price": 150,
+            "image": "./images/product-5.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Materie PeelOff Mask",
+            "price": 60,
+            "image": "./images/product-6.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "3ce Glow Beam Highlighter",
+            "price": 45,
+            "image": "./images/product-7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "YNM Galaxy Kiss Powder",
+            "price": 55,
+            "image": "./images/product-8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "3CE Soft Lip Lacquer",
+            "price": 60,
+            "image": "./images/product-9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Avocado Nourishing Hydrating Mask",
+            "price": 170,
+            "image": "./images/product-10.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Banila Co Clean It Zero Cleansing Water",
+            "price": 60,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Dr.Jart+ Vital Hydra Solution Biome Essence",
+            "price": 170,
+            "image": "./images/product-12.jpg"
+        }
+    ]
+}

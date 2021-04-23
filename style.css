@@ -2,9 +2,11 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
+    
 }
 body{
     font-family: 'Lobster', cursive;
+    background:radial-gradient(#fff,#ffd6d6);
 }
 .navbar{
     display:flex;
@@ -224,7 +226,7 @@ small{
     text-align:center;
 }
 .footer-col-2 img{
-    width:180px;
+    width:150px;
     margin-bottom:20px;
 }
 .footer-col-3,.footer-col-4{
